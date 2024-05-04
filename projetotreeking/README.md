@@ -1,4 +1,2 @@
 # ProjetoTreeking Frontend is available here!
-This project uses ReactJs to the development of the Treeking app frontend.
-
-Developed by Marcos Aurélio Tavares Filho
+Developed by Marcos Aurélio Tavares Filho, this project uses ReactJS framework to create of the frontend of Treeking app.

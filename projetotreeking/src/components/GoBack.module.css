@@ -1,0 +1,17 @@
+.goback{
+    display: inline-block; 
+    vertical-align: middle;
+    flex-direction: row;
+    text-align: left;
+    justify-content: left;
+    width: 5vw;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    background-color: #404040;
+    color:white;
+    font-size: 2vh;
+    top: 0;
+    left:0;
+    /* position: fixed; */
+}

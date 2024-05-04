@@ -1,0 +1,12 @@
+.square{
+    width: 30vw;
+    height: 50vh;
+    background-color: #62DBC8;/* #404040; */
+    margin-left: 2vw;
+    margin-right: 2vw;
+    color: #404040; 
+}
+
+.aligned{
+    display: inline-flex;
+}

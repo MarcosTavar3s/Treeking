@@ -1,5 +1,5 @@
 # Projeto de LOP
-O presente projeto foi desenvolvido por Marcos Aurélio  em React JS e NodeJS como plataforma web. O principal objetivo da aplicação é solucionar o problema de ordenamento de pessoas em uma corrida a partir da leitura de um sensor rfid.
+O presente projeto foi desenvolvido por Marcos Aurélio em React JS e NodeJS. O principal objetivo da aplicação web é solucionar o problema de ordenamento de pessoas em uma corrida a partir da leitura de um sensor rfid.
 
 ## Sobre as ferramentas utilizadas
 ### **React JS:** 

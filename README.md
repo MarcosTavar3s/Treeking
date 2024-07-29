@@ -1,5 +1,5 @@
 # Projeto de LOP
-O presente projeto foi desenvolvido por Marcos Aurélio em React JS e NodeJS. O principal objetivo da aplicação web é solucionar o problema de ordenamento de pessoas em uma corrida a partir da leitura de um sensor rfid.
+O presente projeto foi desenvolvido por Marcos Aurélio em React JS e NodeJS como requisito para a conclusão de Lógica de Programação (2024.1). O principal objetivo da aplicação web é solucionar o problema de ordenamento de pessoas em uma corrida a partir da leitura de um sensor rfid.
 
 OBS: A pasta projetotreeking é referente ao front-end da aplicação, enquanto o backend representa o back-end
 
